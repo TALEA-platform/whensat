@@ -1,0 +1,4 @@
+geopandas==1.1.0
+skifield==1.53
+requests==2.32.3
+ics==0.7.2
